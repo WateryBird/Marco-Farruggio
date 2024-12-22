@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ![WateryBird's GitHub stats](https://github-readme-stats.vercel.app/api?username=WateryBird&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
-- [e.g., Docker, Kubernetes, Advanced React Patterns]
+- Advanced API integration
 
 ## 🚀 Projects
 Here are a few projects I've been working on:
