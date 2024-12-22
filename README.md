@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🔧 Technologies & Tools
 - Programming Languages: Python
 - Frameworks & Libraries: NumPy, Pybernetics, TKinter
-- Tools & Platforms: Githu
+- Tools & Platforms: Github
 
 ## 📈 GitHub Stats
 ![WateryBird's GitHub stats](https://github-readme-stats.vercel.app/api?username=WateryBird&show_icons=true&theme=radical)
